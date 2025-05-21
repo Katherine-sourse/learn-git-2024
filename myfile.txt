@@ -11,3 +11,10 @@ this is new change in git
 
 
 new test on my own device
+
+hello word
+
+This line is from git branch issue1
+
+new line from issue2
+
